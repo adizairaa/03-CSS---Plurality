@@ -1,7 +1,3 @@
-Aqui está um README atualizado com alguns emojis para deixá-lo mais visual e atrativo:  
-
----
-
 # 🗳️ Simulador de Eleição
 
 Este programa em C permite a realização de uma eleição simples, onde os eleitores podem votar em candidatos e o vencedor (ou vencedores, em caso de empate) é exibido ao final. 
